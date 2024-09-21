@@ -21,8 +21,6 @@
 }
 
 .sidebar-link:hover {
-  /* background-color: lightgrey; */
-  background-color: #ddd; /* Background color change on hover */
   transform: scale(1.05); /* Slightly enlarge the entire link on hover */
 }
 
@@ -32,6 +30,7 @@
 
 .sidebar-link:hover div {
   color: #007bff; /* Change the text color on hover */
+  background-color: #ddd; /* Background color change on hover */
 }
 
 .sidebar-link img {
