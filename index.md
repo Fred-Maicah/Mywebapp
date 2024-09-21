@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Kfm-streaming-app</title>
     <link rel="stylesheet" href="styles/general.css">
     <link rel="stylesheet" href="styles/header.css">
     <link rel="stylesheet" href="styles/sidebar.css">
@@ -168,6 +167,38 @@
           </div>
         </div>
       </div>
-    </div>
+
+      <div class="video-preview">
+        <div class="video-image">
+          <img src="pictures/Lion-head.jpg">
+        </div>
+        <div class="video-info-grid">
+          <div class="profile-picture">
+            <img class="profile-pic" src="profile-pictures/profile-pic1.jpg">
+          </div>
+          <div>
+            <p class="video-autor">this is just an example</p>
+            <p class="video-info">and even this one too</p>
+            <p class="video-stats">they are will be changed very soon too</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="video-preview">
+        <div class="video-image">
+          <img src="pictures/Lion-head.jpg">
+        </div>
+        <div class="video-info-grid">
+          <div class="profile-picture">
+            <img class="profile-pic" src="profile-pictures/profile-pic1.jpg">
+          </div>
+          <div>
+            <p class="video-autor">this is just an example</p>
+            <p class="video-info">and even this one too</p>
+            <p class="video-stats">they are will be changed very soon too</p>
+          </div>
+        </div>
+      </div>
+      </div>
   </body>
 </html>
