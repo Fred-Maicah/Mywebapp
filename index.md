@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Kfm-streaming-app</title>
@@ -60,7 +59,7 @@
     <div class="video-preview-grid">
       <div class="video-preview">
         <div class="video-image">
-          <img src="pictures/Lion head.jpg">
+          <img src="pictures/Lion-head.jpg">
         </div>
         <div class="video-info-grid">
           <div class="profile-picture">
@@ -76,7 +75,7 @@
 
       <div class="video-preview">
         <div class="video-image">
-          <img src="pictures/Brown sweet shoe.jpg">
+          <img src="pictures/Brown-sweet-shoe.jpg">
         </div>
         <div class="video-info-grid">
           <div class="profile-picture">
@@ -92,7 +91,7 @@
 
       <div class="video-preview">
         <div class="video-image">
-          <img src="pictures/maynland block party.jpg">
+          <img src="pictures/maynland-block-party.jpg">
         </div>
         <div class="video-info-grid">
           <div class="profile-picture">
@@ -108,7 +107,7 @@
 
       <div class="video-preview">
         <div class="video-image">
-          <img src="pictures/Lion head.jpg">
+          <img src="pictures/Lion-head.jpg">
         </div>
         <div class="video-info-grid">
           <div class="profile-picture">
@@ -124,7 +123,7 @@
 
       <div class="video-preview">
         <div class="video-image">
-          <img src="pictures/Lion head.jpg">
+          <img src="pictures/Lion-head.jpg">
         </div>
         <div class="video-info-grid">
           <div class="profile-picture">
@@ -140,7 +139,7 @@
 
       <div class="video-preview">
         <div class="video-image">
-          <img src="pictures/Lion head.jpg">
+          <img src="pictures/Lion-head.jpg">
         </div>
         <div class="video-info-grid">
           <div class="profile-picture">
@@ -156,7 +155,7 @@
 
       <div class="video-preview">
         <div class="video-image">
-          <img src="pictures/Lion head.jpg">
+          <img src="pictures/Lion-head.jpg">
         </div>
         <div class="video-info-grid">
           <div class="profile-picture">
@@ -172,5 +171,3 @@
     </div>
   </body>
 </html>
-
-
