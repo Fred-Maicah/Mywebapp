@@ -1,13 +1,21 @@
 .sidebar {
   display: flex;
   flex-direction: column;
-  background-color: aquamarine;
+  background-color: #f4f4f4;
   position: fixed;
   top: 63px;
   bottom: 0px;
   left: 0px;
   justify-content: space-between;
   align-items: center;
+  width: 200px;
+  padding: 10px;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
 .sidebar-link:hover {
@@ -16,9 +24,12 @@
 
 .sidebar-link img {
   height: 24px;
+  width: 24px;
+  margin-right: 10px;
 }
 
 .sidebar-link div {
   font-family: Roboto, Arial;
   font-size: 1rem;
+  font-weight: bold;
 }
